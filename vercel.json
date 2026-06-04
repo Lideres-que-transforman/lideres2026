@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/landing.html" },
+    { "source": "/carpeta", "destination": "/carpeta_comercial.html" }
+  ]
+}
